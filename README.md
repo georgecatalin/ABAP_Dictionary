@@ -1,4 +1,4 @@
 # ABAP Dictionary
 Code samples for practicing and learning ABAP Language concepts : topic of ABAP Dictionary. 
 
-<img src="sap_logo.png" alt="SAP Logo" width="150">
+<img src="sap_logo.png" alt="SAP Logo" width="100">
