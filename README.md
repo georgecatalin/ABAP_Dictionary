@@ -5,5 +5,6 @@ Code samples for practicing and learning ABAP Language concepts : topic of ABAP 
 * how to add a Table Maintenance Generator and add data to database table using SM30 when no access for SE11, SE16 or SE16N
 * how to create and use include and append structures to database tables
 * how to create a database view, a projection view, a maintenance view and a help view and what is the difference between them
+* how to create a secondary index as per the specific performance needs and add it to the database
 
 <img src="sap_logo.png" alt="SAP Logo" width="100">
