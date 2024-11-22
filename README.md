@@ -8,5 +8,6 @@ Code samples for practicing and learning ABAP Language concepts : topic of ABAP 
 * how to create a secondary index as per the specific performance needs and add it to the database
 * how to create an elementary and a collective search help (F4 help)
 * how to use an elementary search help in a table with transaction code SE11 and in a program to describe a parameter
+* how to create a lock object ( shared/write/enhanced write modes )
 
 <img src="sap_logo.png" alt="SAP Logo" width="100">
