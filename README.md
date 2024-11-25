@@ -10,5 +10,6 @@ This is my practice work for learning ABAP Language concepts : topic of ABAP Dic
 * how to use an elementary search help in a table with transaction code SE11 and in a program to describe a parameter
 * how to create a lock object ( shared/write/enhanced write modes ) with SE11
 * how to use a lock object in an ABAP Program and compare the running of a normal write (exclusive lock) against an enhanced write (exclusive lock without cumulation)
+* how to work with events associated with the Table Maintenance Generator (SE11 ABAP Dictionary or SE54 Generate Table View )
 
 <img src="sap_logo.png" alt="SAP Logo" width="100">
