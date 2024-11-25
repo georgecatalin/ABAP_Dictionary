@@ -37,6 +37,13 @@
      <BASTAB>X</BASTAB>
      <FLAG>X</FLAG>
     </TVDIR>
+    <TVIMF>
+     <TVIMF>
+      <TABNAME>ZGCORDERH_1</TABNAME>
+      <EVENT>05</EVENT>
+      <FORMNAME>GET_DATE</FORMNAME>
+     </TVIMF>
+    </TVIMF>
    </TOBJ>
   </asx:values>
  </asx:abap>
