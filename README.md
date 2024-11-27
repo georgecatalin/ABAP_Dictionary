@@ -18,6 +18,6 @@ This is my practice work for learning ABAP Language concepts : topic of ABAP Dic
 <img src="sap_logo.png" alt="SAP Logo" width="100">
 
 ## Planning the study work
-Feel free to use the Excel Workbook uploaded to this repository
+Feel free to use the Excel Workbook uploaded in this repository
 
-<img src="20241127_172752_KvG.png" alt="Excel Planning" width="1000">
+<img src="20241127_172752_KvG.png" alt="Excel Planning" width="1200">
