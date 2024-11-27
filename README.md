@@ -20,4 +20,4 @@ This is my practice work for learning ABAP Language concepts : topic of ABAP Dic
 ## Planning the study work
 Feel free to use the Excel Workbook uploaded to this repository
 
-<img src="20241127_172752_KvG.png" alt="Excel Planning" width="700">
+<img src="20241127_172752_KvG.png" alt="Excel Planning" width="1000">
