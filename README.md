@@ -12,5 +12,7 @@ This is my practice work for learning ABAP Language concepts : topic of ABAP Dic
 * how to use a lock object in an ABAP Program and compare the running of a normal write (exclusive lock) against an enhanced write (exclusive lock without cumulation)
 * how to work with events associated with the Table Maintenance Generator (SE11 ABAP Dictionary or SE54 Generate Table View )
 * how to create primary table with text table for multilanguage support and use the text table in search help creation
+* how to create transactions to directly maintain or display tables using SM30
+* what is the significance of the case-sensitive checkbox in the domain creation with SE11
 
 <img src="sap_logo.png" alt="SAP Logo" width="100">
