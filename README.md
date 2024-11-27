@@ -16,3 +16,7 @@ This is my practice work for learning ABAP Language concepts : topic of ABAP Dic
 * what is the significance of the case-sensitive checkbox in the domain creation with SE11
 
 <img src="sap_logo.png" alt="SAP Logo" width="100">
+## Planning the study work
+Feel free to use the Excel Workbook uploaded to this repository
+
+<img src="20241127_172752_KvG.png" alt="Excel Planning" width="100">
