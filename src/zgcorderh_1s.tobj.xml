@@ -33,17 +33,10 @@
      <TABNAME>ZGCORDERH_1</TABNAME>
      <AREA>ZGCORDERH_1</AREA>
      <TYPE>1</TYPE>
-     <LISTE>0002</LISTE>
+     <LISTE>0001</LISTE>
      <BASTAB>X</BASTAB>
      <FLAG>X</FLAG>
     </TVDIR>
-    <TVIMF>
-     <TVIMF>
-      <TABNAME>ZGCORDERH_1</TABNAME>
-      <EVENT>05</EVENT>
-      <FORMNAME>GET_DATE</FORMNAME>
-     </TVIMF>
-    </TVIMF>
    </TOBJ>
   </asx:values>
  </asx:abap>
